@@ -8,4 +8,4 @@ original answer on stackoverflow: http://stackoverflow.com/questions/30586384/vi
 Installation
 ------------
 
-Puts reload-plugins.js into your ~/.vimperator/plugin folder.
+Put "reload-plugins.js" into your ~/.vimperator/plugin folder.
